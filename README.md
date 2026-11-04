@@ -1,21 +1,17 @@
- Bonjour, moi c'est Bea Wakayisavira Donnel
+ 💻 DONNEL KAYISAVIRA 
+ Étudiante en L3 Informatique Appliquée à la Gestion des Entreprises (IAGE)
+Université de l'Assomption au Congo (UAC)
 
-🎓 Finaliste L3 Informatique Appliquée à la Gestion des Entreprises (IAGE)
-🏫 Université de l'Assomption au Congo (UAC)
+🚀 À PROPOS DE MOI
 
-Je suis en dernière année de Licence. Je me spécialise dans l'informatique pour la gestion d'entreprise : gestion de stock, gestion de boutique, et création de sites web.
+Je suis DONNEL KAYISAVIRA , informaticienne et étudiante, passionnée par la conception de solutions numériques utiles et durables.
 
- Ce que je sais faire
-- Web : HTML, CSS, GitHub Pages
-- Gestion : Gestion de boutique, Gestion de stock
-- Outils : Git & GitHub, Excel
+Mon objectif : mettre la technologie au service du développement, de l'innovation et de l'entrepreneuriat en République démocratique du Congo et au-delà.
 
-Mes Projets UAC
-- gestion_boutique - Application de gestion de boutique
-- TP 1.1 - Ma page de présentation personnelle
- Mon Projet de Fin d'Etudes (TFC)
-En cours de préparation - Application de gestion pour les entreprises locales à butembo.
-
- Me contacter
-- GitHub : @donnelkayisavira-pixel
-- Ville :  RDC
+Domaines d'intérêt :
+- 🌐 Développement web
+- 📱 Applications mobiles
+- 🤖 Intelligence artificielle
+- 🗄️ Conception et administration de bases de données
+- 💼 Solutions numériques pour les entreprises
+- 🎓 Formation et partage des connaissances
