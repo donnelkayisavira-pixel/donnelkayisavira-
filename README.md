@@ -2,12 +2,12 @@
 
 # 💻 DONNEL KAYISAVIRA PIXEL
 
-### Informaticienne | Étudiante L3 IAGE |
+### Informaticienne | Développeuse Web | Étudiante L3 IAGE |
 ### Université de l'Assomption au Congo (UAC) 🇨🇩
 
-![Profile Views](https://komarev.com/ghpvc/?username=donnelkayisavira-pixel&color=7A0C1E&style=flat)
-![GitHub](https://img.shields.io/badge/GitHub-donnelkayisavira--pixel-7A0C1E?style=flat&logo=github)
-![RDC](https://img.shields.io/badge/RDC-Congo-0D1117?style=flat)
+[![GitHub](https://img.shields.io/badge/GitHub-donnelkayisavira--pixel-7A0C1E?style=for-the-badge&logo=github)](https://github.com/donnelkayisavira-pixel)
+[![RDC](https://img.shields.io/badge/RDC-Congo-0D1117?style=for-the-badge)](https://github.com/donnelkayisavira-pixel)
+[![Email](https://img.shields.io/badge/Email-donnelkayisavira@gmail.com-D4A017?style=for-the-badge&logo=gmail)](mailto:donnelkayisavira@gmail.com)
 
 </div>
 
@@ -15,11 +15,11 @@
 
 ### 👩🏾‍💻 À PROPOS DE MOI
 
-Je suis **DONNEL KAYISAVIRA PIXEL**, informaticienne et étudiante en **L3 Informatique Appliquée à la Gestion des Entreprises (IAGE)** à l'**Université de l'Assomption au Congo (UAC)**.
+Je suis **DONNEL KAYISAVIRA PIXEL**, informaticienne et étudiante en **L3 Informatique Appliquée à la Gestion des Entreprises (IAGE)** à l'**UAC**.
 
-Passionnée par la conception de solutions numériques utiles, modernes et durables pour les entreprises et pour la RDC.
+Passionnée par le web, les applications et l'innovation. Je transforme les idées en solutions numériques utiles et modernes pour la RDC et au-delà.
 
-> **Mon objectif :** mettre la technologie au service du développement, de l'innovation et de l'entrepreneuriat.
+> **Ma vision :** L'excellence, la rigueur, l'innovation.
 
 ---
 
@@ -28,36 +28,35 @@ Passionnée par la conception de solutions numériques utiles, modernes et durab
 | Domaine | Technologies |
 | :--- | :--- |
 | 🌐 Développement Web | HTML, CSS, JavaScript |
-| 📱 Applications Mobiles | Android, Flutter |
-| 🤖 Intelligence Artificielle | Python, Machine Learning |
+| 📱 Applications | Android, Flutter |
+| 🤖 Intelligence Artificielle | Python |
 | 🗄️ Bases de Données | MySQL, PostgreSQL |
-| 💼 Gestion d'Entreprise | Analyse, Gestion de Projet |
+| 💼 Entreprise | Gestion de Projet, Analyse |
 
 ---
 
-### ✨ DOMAINES D'INTÉRÊT
+### ✨ CE QUE JE FAIS
 
-- 🌐 Développement web moderne
-- 📱 Applications mobiles
-- 🤖 Intelligence artificielle
-- 🗄️ Conception et administration de bases de données
+- 🌐 Création de sites web modernes et professionnels
+- 📱 Applications mobiles simples et utiles
+- 🤖 Projets IA pour apprendre et innover
 - 💼 Solutions numériques pour les entreprises
-- 🎓 Formation et partage des connaissances
+- 🎓 Partage et formation
 
 ---
 
 ### 📫 ME CONTACTER
 
-- **GitHub :** donnelkayisavira-pixel
+- **GitHub :** https://github.com/donnelkayisavira-pixel
+- **Mon Site :** https://donneldonnel240-wq.github.io/Bea-wakayisavira-donnel/
 - **Email :** donnelkayisavira@gmail.com
-- **📍 Localisation :** RDC - Congo 🇨🇩
-- **🌐 Mon Site :** https://donneldonnel240-wq.github.io/Bea-wakayisavira-donnel/
+- **📍** RDC - Congo 🇨🇩
 
 ---
 
 <div align="center">
 
 ### ⭐ Merci d'être passé sur mon profil !
-**DONNEL KAYISAVIRA PIXEL - L'EXCELLENCE, LA RIGUEUR, L'INNOVATION**
+**DONNEL KAYISAVIRA PIXEL**
 
 </div>
